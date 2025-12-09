@@ -65,7 +65,7 @@ cp backend/.env.example backend/.env
 cp frontend/.env.example frontend/.env
 ```
 
-Add your LLM API key(s) to `backend/.env`.
+Add the API keys provided in the email (OpenAI and Anthropic) to `backend/.env`. If you have any issues with these keys or did not receive them please reach out to brandon@getstructured.ai.
 
 ### 3. Install Dependencies
 

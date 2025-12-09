@@ -6,7 +6,7 @@ This exercise is intentionally scoped to be achievable within a few focused hour
 
 ---
 
-## 🚀 What You’ll Build
+## What You’ll Build
 
 A small **React + FastAPI** application where a user can chat with an AI assistant that:
 
@@ -23,7 +23,7 @@ Because this is a simplified environment, assume only a single user will be usin
 
 ---
 
-## 📌 Requirements
+## Requirements
 
 ### 1. **Conversational Experience & Persistence**
 
@@ -75,7 +75,7 @@ This is the kind of reasoning-layer orchestration we build internally every day.
 
 ---
 
-## 🧠 Notes & Expectations
+## Notes & Expectations
 
 * You can use *any* LLM provider (OpenAI, Anthropic, etc.)
 * Feel free to bring in additional dependencies if they help
@@ -151,7 +151,7 @@ npm run dev
 
 ---
 
-# 🎉 Final Thoughts
+# Final Thoughts
 
 We designed this challenge to reflect real work you’d do at Structured:
 agentic systems, tool orchestration, async Python, and thoughtful UI/UX.
